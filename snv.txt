@@ -3,3 +3,5 @@ Hi every one
 Hi iam new joiner	
 
 Permission Checking
+
+Required status checking to pass before merging

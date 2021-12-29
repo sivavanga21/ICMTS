@@ -1,2 +1,7 @@
 Hi every one
+<<<<<<< HEAD
 Change by siva
+=======
+
+Hi iam new joiner	
+>>>>>>> vanga2

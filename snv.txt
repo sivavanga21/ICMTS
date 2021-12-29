@@ -5,3 +5,5 @@ Hi iam new joiner
 Permission Checking
 
 Required status checking to pass before merging
+
+Alow force pushes
